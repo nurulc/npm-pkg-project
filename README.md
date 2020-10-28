@@ -1,4 +1,4 @@
-# :package: NPM Package Template :package:
+# :package: NPM Package Project Generator :package:
 
 ![Test suite](https://github.com/jankapunkt/npm-package-template/workflows/Test%20suite/badge.svg)
 [![Build Status](https://travis-ci.org/jankapunkt/npm-package-template.svg?branch=master)](https://travis-ci.org/jankapunkt/npm-package-template)
@@ -28,10 +28,11 @@ All tools are only defined as **`dev-dependencies`**:
 * [Travis-CI](https://travis-ci.org/) for continuous integration
 * [GitHub actions](https://github.com/features/actions) for continuous integration
 
+__Not a working project - WORK IN PROGRESS__
 
 ## Getting started
 
-Just create your Js files in the `./lib` folder and add the tests in the `test` folder.
+Just create your Js files in the `./src` folder and add the tests in the `test` folder.
 
 
 ## Code Quality
